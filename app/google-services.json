@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "721541109463",
+    "project_id": "hocfirebase-d2c1d",
+    "storage_bucket": "hocfirebase-d2c1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721541109463:android:3e4801524c16f496be8292",
+        "android_client_info": {
+          "package_name": "com.example.hocfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721541109463-ef07nff63ah7718inue61gjoc87ii16m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYhQvcRIyqJJ2xPlLIjqTBOymuy5qS9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721541109463-ef07nff63ah7718inue61gjoc87ii16m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721541109463:android:72ba7e8942dd7794be8292",
+        "android_client_info": {
+          "package_name": "com.example.hoctienganh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "721541109463-ef07nff63ah7718inue61gjoc87ii16m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHYhQvcRIyqJJ2xPlLIjqTBOymuy5qS9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "721541109463-ef07nff63ah7718inue61gjoc87ii16m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

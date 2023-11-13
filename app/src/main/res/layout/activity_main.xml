@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/edtTest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="Nhập gì đó" />
+
+    <Button
+        android:id="@+id/btnSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nhập" />
+
+    <Button
+        android:id="@+id/btnRead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Xuất" />
+
+    <Button
+        android:id="@+id/btnBai2RealTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bài 2" />
+
+    <Button
+        android:id="@+id/btnBai3RealTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bài 3" />
+
+    <Button
+        android:id="@+id/btnBai4RealTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bài 4" />
+
+    <Button
+        android:id="@+id/btnBai5RealTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bài 5" />
+
+    <Button
+        android:id="@+id/btnMoDangKi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Đăng kí" />
+
+</LinearLayout>
